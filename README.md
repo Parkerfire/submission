@@ -1,0 +1,2 @@
+# submission
+SemanticKITTI test submission
